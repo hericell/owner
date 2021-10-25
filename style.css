@@ -1,0 +1,73 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: linear-gradient(180deg, #54b7f0 0%, #a2d1eb 35%, #e2edff 100%);
+}
+
+section {
+  padding-top: 5em;
+}
+
+td {
+  text-align: left;
+  color: #54b7f0;
+}
+
+li {
+  text-align: left;
+  color: #54b7f0;
+}
+
+h3 {
+  background-color: #54b7f0;
+  border-radius: 10px;
+  color: #fff;
+}
+
+h2 {
+  margin-bottom: 2rem;
+}
+
+table {
+  margin-left: 2rem;
+}
+
+tr {
+  line-height: 1rem;
+}
+
+#profile {
+  padding-left: 0rems;
+}
+
+#education,
+#skill {
+  background-image: linear-gradient(180deg, #e2edff 0%, #a9d8f1 30%, #e2edff 100%);
+}
+
+/* sosmed */
+#top-social-profiles {
+  height: 42px;
+  text-align: right;
+  position: fixed;
+  right: 10px;
+  bottom: 135px;
+}
+#top-social-profiles img {
+  margin: 0 6px 0 0px !important;
+  display: block;
+}
+#top-social-profiles img:hover {
+  opacity: 0.8;
+}
+#top-social-profiles .widget-container {
+  background: none;
+  padding: 0;
+  border: 0;
+}
+.social-profiles-widget img {
+  margin: 0 6px 0 0;
+}
+.social-profiles-widget img:hover {
+  opacity: 0.8;
+}
+/* akhir sosmed */
